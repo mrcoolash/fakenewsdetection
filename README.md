@@ -19,12 +19,12 @@ To run the project, ensure you have Python 3 and the required dependencies insta
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fakenews-detection.git
+   git clone https://github.com/mrcoolash/fakenewsdetection.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd fakenews-detection
+   cd fakenewsdetection
    ```
 
 3. Install dependencies using requirements.txt:
